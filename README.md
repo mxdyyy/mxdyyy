@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhav Narayanan</h1>
+<h1 align="center">Hi <img align="center" alt="Coding" width="50" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">, I'm Madhav Narayanan</h1>
 <h3 align="center">A Data-Savvy Full Stack Developer-Exploring Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxdyyy&label=Profile%20views&color=0e75b6&style=flat" alt="mxdyyy" /> </p>
