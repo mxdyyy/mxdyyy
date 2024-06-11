@@ -1,7 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/992933/screenshots/4828718/boy.gif)](https://mxdyyy.io)
 <h1 align="center">Hi 👋, I'm Madhav Narayanan</h1>
 <h3 align="center">A Data-Savvy Full Stack Developer-Exploring Machine Learning</h3>
-<img allign="right" alt="Coding" width="400" src ="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxdyyy&label=Profile%20views&color=0e75b6&style=flat" alt="mxdyyy" /> </p>
 
 - 🔭 I’m currently studying **B.Tech(IT)**
