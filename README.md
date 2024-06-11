@@ -7,7 +7,7 @@
 
 - 🤖 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me [Madhav N | LinkedIn](Madhav N | LinkedIn)
+- 📫 How to reach me @Madhav N | LinkedIn
 
 - 🎮 Fun fact **pro Gamer**
 
