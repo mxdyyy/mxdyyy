@@ -7,8 +7,6 @@
 
 - 🤖 I’m currently learning **Machine Learning**
 
-- 👯 I’m excited to collaborate on **projects**
-
 - 📫 How to reach me [Madhav N | LinkedIn](Madhav N | LinkedIn)
 
 - 🎮 Fun fact **pro Gamer**
