@@ -7,7 +7,7 @@
 
 - 🤖 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me @Madhav N | LinkedIn
+- 📫 How to reach me [Madhav N | LinkedIn](https://www.linkedin.com/in/madhav-n-360693280/)
 
 - 🎮 Fun fact **pro Gamer**
 
